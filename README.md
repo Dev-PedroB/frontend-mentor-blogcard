@@ -1,4 +1,5 @@
 # Frontend Mentor - Blog preview card
+https://dev-pedrob.github.io/frontend-mentor-blogcard/
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
